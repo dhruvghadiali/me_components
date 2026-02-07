@@ -1,6 +1,6 @@
 {
-  "name": "@me/components",
-  "version": "1.0.0",
+  "name": "@dhruv21/me-components",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",

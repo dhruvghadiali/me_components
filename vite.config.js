@@ -7,9 +7,9 @@ export default defineConfig({
   build: {
     lib: {
       entry: path.resolve(__dirname, "src/index.jsx"),
-      name: "ReactFormKit",
+      name: "MeComponents",
       formats: ["es", "cjs"],
-      fileName: (format) => `react-form-kit.${format}.js`
+      fileName: (format) => `me-components.${format}.js`
     },
     rollupOptions: {
       external: ["react", "react-dom"],
