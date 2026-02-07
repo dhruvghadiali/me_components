@@ -1,6 +1,8 @@
+import { Input } from "@/components/ui/input"
+
 const TestComponent = () => {
     return (
-        <h1> Test component </h1>
+        <Input />
     )
 };
 
